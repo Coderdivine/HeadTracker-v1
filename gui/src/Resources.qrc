@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>images/refresh.svg</file>
+        <file>images/Icon256.png</file>
+        <file>images/IconFile.ico</file>
+        <file>images/check.svg</file>
+        <file>images/x.svg</file>
+        <file>images/chviewico.svg</file>
+        <file>images/calibrate.svg</file>
+        <file>images/connect.svg</file>
+        <file>images/disconnect.svg</file>
+        <file>images/download.svg</file>
+        <file>images/reboot.svg</file>
+        <file>images/save.svg</file>
+        <file>images/send.svg</file>
+        <file>images/Pinout.png</file>
+    </qresource>
+</RCC>
